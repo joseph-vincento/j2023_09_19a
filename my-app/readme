@@ -1,1 +1,17 @@
-This is the read me for Lab 1
+CSE2102: Intro to Software Engineering
+Lab #1
+Lab Group: Joseph Vincento, Bruno Viera, Lyles Williams
+
+These instructions assume that the user is on a Redhat Linux distrobution with mavan installed.
+The github repo containing the lab project can be found at: https://github.com/joseph-vincento/j2023_09_19a
+
+To clone the repo and run the project:
+    1. Navigate to the directory when you wish to save the cloned repo.
+    2. run the command: 
+        git clone https://github.com/joseph-vincento/j2023_09_19a.git
+    3. Once clone has pulled the repo to the desired directory, there should be a directory called "my-app".
+    4. Navigate to the "my-app" directory.
+    5. Run the projects unit tests with the command: 
+        mvn test.
+    6. Run the projects main function with the command: 
+        mvn exec:java -Dexec.mainClass="com.mycompany.app.TestMe"

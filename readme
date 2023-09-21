@@ -2,7 +2,7 @@ CSE2102: Intro to Software Engineering
 Lab #1
 Lab Group: Joseph Vincento, Bruno Viera, Lyles Williams
 
-These instructions assume that the user is on a Redhat Linux distrobution with mavan installed.
+These instructions assume that the user is on a Redhat Linux distribution with mavan installed.
 The github repo containing the lab project can be found at: https://github.com/joseph-vincento/j2023_09_19a
 
 To clone the repo and run the project:
